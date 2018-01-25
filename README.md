@@ -1,4 +1,4 @@
-# jpico ReadMe
+# jpico-bsd ReadMe
 
 This is an older BSD-licensed version of JPico, last updated July 2016. For the latest version of jpico, see:
 
@@ -31,10 +31,10 @@ More information can be found at: http://mypico.org
 
 The following members of the Pico team worked on this code and kindly agreed for it to be released as open source under a BSD licence:
  * Frank Stajano (PI), Frank.Stajano@cl.cam.ac.uk
- * David Llewellyn-Jones, David.Llewellyn-Jones@cl.cam.ac.uk
- * Graeme Jenkinson
- * Alexander Dalgleish
- * Max Spencer
- * Chris Warrington
+ * Graeme Jenkinson, gcjenkinson@gmail.com
+ * Max Spencer, mrmaxspender@gmail.com
+ * Chris Warrington, cmwarrington@gmail.com
  * Quentin-Stafford-Fraser
+ * Alexander Dalgleish
+ * David Llewellyn-Jones, David.Llewellyn-Jones@cl.cam.ac.uk
 
